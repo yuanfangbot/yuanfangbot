@@ -1,115 +1,92 @@
-# 👤 个人介绍：**你的名字**
+<h1 align="center">Hi 👋，我是元芳</h1>
+<h3 align="center">🌟 一名来自中国的全栈开发者</h3>
 
-![头像](链接到你的头像图像)
-
----
-
-## 🌟 关于我
-
-你好！我是 **你的名字**，一名全能型开发者，热爱探索技术的各个领域，尤其是 2D 和 3D 图形开发。我喜欢将创意转化为可视化的作品，无论是网页设计还是游戏开发。
-
-> “技术的边界在于想象力！” 💻✨
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yuanfangbot&label=访问量&color=brightgreen&style=flat-square" alt="yuanfangbot" />
+</p>
 
 ---
 
-## 🎨 兴趣爱好
+## 🌐 自我介绍
 
-- **阅读** 📚：喜欢科技和科幻类书籍。
-- **旅行** ✈️：探索不同文化和美食。
-- **健身** 🏋️‍♂️：保持健康的生活方式。
-- **3D 建模** 🏗️：使用 Blender 和 Unity 进行创作。
+你好，我是 **元芳**，一名热爱编程的全栈开发者，擅长 React、Vue、Node.js 与 Python。  
+我热衷于开源项目、构建有趣的应用，并乐于分享技术，持续学习中！
 
 ---
 
-## 🚀 技能概览
+## 🛠️ 技术栈
 
-| **领域**                | **技能**                                         |
-|-----------------------|------------------------------------------------|
-| **编程语言**           | Python 🐍, JavaScript ☕️, Java ☕, C++ 💻         |
-| **前端开发**           | HTML5 📄, CSS3 🎨, React ⚛️, Vue.js 🌐           |
-| **后端开发**           | Node.js 🌐, Django 🐍, Flask 🐍                   |
-| **数据分析与机器学习** | Pandas 📊, NumPy ➕, Scikit-learn 📈, TensorFlow 🤖 |
-| **2D/3D 技术**         | Blender 🎨, Unity 🎮, Three.js 🌐                 |
-| **工具与技术**         | Git 🥷, Docker 🐳, AWS ☁️, Kubernetes ☸️         |
-
----
-
-## 🌈 项目经验
-
-### 1. **2D 游戏开发项目** 🌟
-![项目截图](链接到项目截图)
-- **描述**：开发了一款 2D 冒险游戏，玩家可以探索不同的关卡和解谜。
-- **技术栈**：使用 Unity 和 C# 开发。
-- **链接**：[查看项目](项目链接)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ---
 
-### 2. **3D 建模项目** 🌟
-![项目截图](链接到项目截图)
-- **描述**：创建了一个 3D 模型，展示了现代建筑设计。
-- **技术栈**：使用 Blender 进行建模和渲染。
-- **链接**：[查看项目](项目链接)
+## 🚀 项目推荐
+
+🔗 [GitHub 项目：yuanfangbot](https://github.com/yuanfangbot/yuanfangbot.git)
 
 ---
 
-### 3. **交互式 3D 网站** 🌟
-![项目截图](链接到项目截图)
-- **描述**：开发了一个使用 Three.js 的交互式 3D 网站，用户可以旋转和缩放模型。
-- **技术栈**：使用 HTML、CSS 和 JavaScript。
-- **链接**：[查看项目](项目链接)
+## 📈 GitHub 统计
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yuanfangbot&show_icons=true&theme=tokyonight&hide_border=false" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yuanfangbot&theme=tokyonight&hide_border=false" alt="Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuanfangbot&layout=compact&theme=tokyonight" alt="Top Langs" />
+</div>
 
 ---
 
-## 📚 学习与成长
+## 📫 联系方式
 
-我热衷于不断学习新技术，提升自己的技能。以下是我正在学习的内容：
-
-- **新技术**：如虚拟现实（VR）和增强现实（AR）技术。
-- **在线课程**：参加 Coursera 和 Udemy 的课程 🎓
-
----
-
-## 📬 联系我
-
-如果你想与我交流或合作，请随时联系我：
-
-- **邮箱**：你的邮箱 📧
-- **社交媒体**：
-  - [Twitter](你的Twitter链接) 🐦
-  - [LinkedIn](你的LinkedIn链接) 💼
-  - [GitHub](你的GitHub链接) 🐙
-
-欢迎提供反馈或建议，让我们一起进步！
+- 🌐 个人主页：[GitHub主页](https://github.com/yuanfangbot/yuanfangbot.git)  
+- 📧 邮箱：[877220880@qq.com](mailto:877220880@qq.com)  
+- 📍 所在地：中国  
+- 💬 Telegram：[联系我](https://t.me/yuanfang1688888)  
+- 🧡 GitHub 赞助：[成为赞助者](https://github.com/sponsors/yuanfangbot)
 
 ---
 
-## 🙏 致谢
+## 🏅 社区徽章
 
-感谢所有支持我的朋友和家人，特别是 [特别感谢的人]。你们的鼓励让我不断前行！ 💖
-
----
-
-## 🌍 让我们一起探索技术的无限可能吧！🚀
-
----
-
-### 🔄 动态更新
-
-每周我都会更新我的项目和学习进度，欢迎关注我的社交媒体，获取最新动态！📅
-
-- **最新动态**：
-  - **本周学习**：深入学习虚拟现实技术。
-  - **新项目**：正在开发一个 3D 游戏，使用 Unity 和 C#。
+<p align="left">
+  <img src="https://img.shields.io/badge/GitHub_Sponsor-EA4AAA?style=for-the-badge&logo=GitHub-Sponsors&logoColor=white" />
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
+</p>
 
 ---
 
-### ✨ 个人座右铭
+## 💬 彩蛋时间
 
-> “生活就像编程，错误是不可避免的，但每个错误都是一次学习的机会。” 🌱
+- 💻 每天都在写代码 ☕  
+- 🧠 正在学习 AI 与大模型技术  
+- 🛠 喜欢制作实用工具类小程序  
+- 🌌 忠实暗黑模式用户  
+- 🎯 目标：2025 年发布一款完整的 SaaS 产品！
 
 ---
 
-## 🎯 职业目标
+## 📊 我的 GitHub 活动图表
 
-我的目标是成为一名全栈开发者，能够独立完成复杂的项目，并在技术领域不断创新和突破，尤其是在 2D 和 3D 视觉效果方面。
+[![](https://raw.githubusercontent.com/yuanfangbot/yuanfangbot/output/github-contribution-grid-snake.svg)](https://github.com/yuanfangbot)
 
+---
+
+## 🌍 趣味展示：动态背景
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yuanfangbot&theme=tokyo-night&hide_border=true" alt="activity graph" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=100&section=footer"/>
+</p>
