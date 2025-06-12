@@ -30,6 +30,7 @@
 ## 🚀 项目推荐
 
 🔗 [GitHub 项目：yuanfangbot](https://github.com/yuanfangbot/yuanfangbot.git)
+🧑‍💻 示例机器人脚本：`robot.py`，在本仓库中提供。运行 `python3 robot.py` 即可与机器人进行对话。
 
 ---
 
